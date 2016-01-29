@@ -7,3 +7,4 @@ spelling errors and curly braces errors..
 Practice more to get the idea
 padding is space between words and its border
 margin is space between different elements
+a:hover:Select and style a link when you mouse over it
